@@ -1,0 +1,21 @@
+﻿.h1 {
+	text-indent: 1px;
+	text-align: center;
+	font-size: xx-large;
+	margin-top: 47px;
+	margin-bottom: 0;
+	color:green;
+	background-color:white;
+	}
+.h4 {
+	font-family: Calibri;
+	font-size: large;
+	font-weight: 200;
+	color: #FFFFFF;
+	text-transform: inherit;
+	margin: auto 700px auto auto;
+	padding: 5px;
+	background-color: #000000;
+	margin:auto;
+	width:75%;
+}
